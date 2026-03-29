@@ -17,4 +17,6 @@ A modern visual redesign of **Ox_Lib** – fully compatible with the original, j
 
 ## 🖼️ Preview 
 
-![Preview](https://i.imgur.com/mThq3L8.png) ![Preview](https://i.imgur.com/lnCsZOA.png) ![Preview](https://i.imgur.com/tjsT1rM.png) 
+![Preview](https://i.imgur.com/mThq3L8.png) 
+![Preview](https://i.imgur.com/lnCsZOA.png) 
+![Preview](https://i.imgur.com/tjsT1rM.png) 
