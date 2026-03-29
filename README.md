@@ -1,12 +1,13 @@
 # 🎨 ReDesign Ox_Lib
 
-A modern visual redesign of **Ox_Lib** – fully compatible with the original, just cleaner and faster.
+A modern visual redesign of **Ox_Lib** – fully compatible with the original.
+
+> I did not redesign this Ox_Lib, but I want to share this with you.
 
 ## ✨ Features
 
 - ✅ Full compatibility – works with all existing scripts
 - 🎨 Modern & clean UI
-- 🌙 Dark/Light theme support
 - ⚡ Optimized animations
 - 📱 Responsive design
 
